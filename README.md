@@ -6,7 +6,7 @@ It is dedicated to teach the music theory from principles to advanced concepts i
 
 The content is copyright (c) 2013-2014 [Bohumir Zamecnik](http://zamecnik.me).
 
-This site is proudly powered by Octopress static blog generator which is under the MIT license.
+This site is proudly powered by the Octopress static blog generator which is under the MIT license.
 
 ## What is Octopress?
 
