@@ -13,3 +13,61 @@
 		opacity: 0.85;
 	}
 }
+
+body > header h1 > a {
+	padding-left: 88px;
+}
+
+body > header h1 {
+	background-image: url(/assets/HarmonEyeIcon72x72.png);
+	background-size: 72px 72px;
+	background-repeat: no-repeat;
+	min-height: 72px;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+    only screen and (-o-min-device-pixel-ratio: 3/2),
+    only screen and (min--moz-device-pixel-ratio: 1.5),
+    only screen and (min-device-pixel-ratio: 1.5) {
+	body > header h1 {
+		background-image: url(/assets/HarmonEyeIcon72x72@2x.png);
+	}
+}
+
+body > header {
+	padding-top: 0.9em;
+	padding-bottom: 0.9em;
+}
+
+.action-button {
+	text-align: center;
+	text-decoration: none;
+	font-size: 150%;
+	color: #eee;
+	background: rgb(247, 115, 33);
+	padding: 20px 40px;
+	display: inline-block;
+	white-space: nowrap;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	margin: 10px 0;
+	-webkit-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+
+.action-button:hover {
+	background: rgb(239, 80, 22);
+}
+
+.action-button:hover,
+.action-button:visited {
+	color: #fff;
+}
+
+.center {
+	text-align: center;
+}

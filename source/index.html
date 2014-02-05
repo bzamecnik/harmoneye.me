@@ -3,22 +3,33 @@ layout: default
 ---
 
 <div class="blog-index">
-  {% assign index = true %}
-  {% for post in paginator.posts %}
-  {% assign content = post.content %}
-    <article>
-      {% include article.html %}
-    </article>
-  {% endfor %}
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
-    {% endif %}
-    <a href="/blog/archives">Blog Archives</a>
-    {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
-    {% endif %}
-  </div>
+	<article>
+		<div class="entry-content">
+			<div style="float:right; margin-left: 20px">
+				<p class="center">
+				<img src="{% asset_path chord-circle-e7.png %}" alt="E7 chord in the circle diagram" title="E7 chord in the circle diagram" width="300"></p>
+				<p class="center">
+				<a href="{{root_url}}/lessons/" class="action-button">To the lessons...</a></p>
+			</div>
+{% capture intro_content %}
+### What?
+
+
+Free music theory lessons focused on being easily understandable, using visual examples.
+
+### For whom?
+
+For all curious music lovers willing to learn how it works and to be able to share the love via music.
+
+### Why?
+
+1. traditional music theory and notation is full of unnecessary complexity
+- visualization is very powerful and most people train eyes all the time
+- music is fun and worth to learn
+{% endcapture %}
+			{{ intro_content | unindent | markdownify }}
+		</div>
+	</article>
 </div>
 <aside class="sidebar">
   {% if site.blog_index_asides.size %}
