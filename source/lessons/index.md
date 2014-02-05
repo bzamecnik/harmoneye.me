@@ -8,21 +8,20 @@ footer: true
 
 ## Contents
 
-The lessons are going to be written continuously. Image it as a living lean published book. The following is the expected outline of the topics.
+The lessons are going to be written continuously. Imagene a living lean published book. The following is the expected outline of the topics.
 
 Also I've imported some older blog posts - they contain some very interesting stuff but need to be rewritten for better clarity and incorporated into the lessons.
 
 Do you have any question? Feel free to [write me](/contact/). Want to be notified when there will be new lessons? You can subscribe to the newsletter.
 
-- introduction
-	- [what is music?](what-is-music.html)
-		- tools and art
-		- the components of music
-			- several layers of abstraction
-	- how to learn music?
-	- what is music theory?
-	- the structure of these lessons
-		- for now mostly focused on harmony and tuning
+### [Introduction](introduction.html)
+- What is music?
+	- tools and art
+	- components of music
+- How to learn music?
+- Music theory? Why care about it?
+- These lessons
+
 - physical principles
 	- sound and silence
 		- waves of sound pressure

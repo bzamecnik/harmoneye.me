@@ -1,20 +1,22 @@
 ---
-title: What is music
+title: Introduction
 layout: page
 comments: true
 sharing: false
 footer: true
 ---
 
-What is music? Quite a broad question. One of the answers might be that:
+## What is music?
+
+Quite a broad question. One of the answers might be that:
 
 > Music is a language that people use to share emotions via sound.
 
-## Tools and art
+### Tools and art
 
 Music comprises of many aspects and in these lessons we'll try to learn some of them. Roughly one part of music is technical - the various tools that support particular emotions. The other one is artistic - the human element that makes music interesting using these tools.
 
-It is similar to other fields. Eg. if you paint pictures you have a stack of tools and techniques how to paint - brushes, colors, composition, etc. But it is up to you how to combine them to work well together to communicate your message - an idea or emotion.
+It is similar to many other fields. For example if you paint pictures you have a stack of tools and techniques how to paint - brushes, colors, composition, etc. But it is up to you how to combine them to work well together to communicate your message - an idea or emotion.
 
 If you cook dishes you have many possibilities which ingredients to choose and how to process and mix them. But it is up to you to make such a mix that tastes great.
 
@@ -24,6 +26,16 @@ If you write software you have a lot of tools too - from mathematical theory, th
 
 It is a universal pattern. You have the tools and how to use them to get a meaningful and beautiful result is up to you.
 
+### Components of music
+
+Many aspects of music can be studied. Here a diagram that shows the important ones roughly laid out in two dimensions.
+
+They are grouped in several layers from low level aspects up to the high level ones or similarly local and global (affecting a small piece or the whole song).
+
+Alse they are grouped according to how they are related to time (where something occurs in the song) or frequency (does it sound high or low).
+
+<p align="center"><img src="/assets/lessons/layers-of-music-abstractions.svg" width="80%"></p>
+
 ## How learn music?
 
 It seems a bit hard but is not that much. The process of learning something is usually not that you have a blank paper and try to draw an amazing thing from nothing.
@@ -32,8 +44,12 @@ Typically you surround you with it - in this case music. Listen. A lot. Try to e
 
 This is the general learning process.
 
-## Music theory
+## Music theory? Why care about it?
 
-While you can perform music without explicitly knowing how it works - if you are talented you can get much further if you know your tools and are able to use them properly. Since ages many smart people were trying to find out what are the tools and how to use them. And this knowledge resulting from analyzing the music is called *music theory*.
+While you can perform music without explicitly knowing how it works - if you are talented you can get much further if you know your tools and are able to use them properly. Since ages many smart people were trying to find out what are the tools and how to use them. And this knowledge resulting from analyzing the music is called *music theory*. Generally it is useful to learn from our predecessors and stand on the shoulders of giants. Instead of always reinventing wheel we can save some time for actually creating something new.
+
+## These lessons
 
 It these lessons we will focus right on music theory, ie. the principles behind music, not on the actual making of music or putting emotions and stories into this medium.
+
+Also for now the lessons will be mostly focused on harmony and tuning rather than the other aspects.

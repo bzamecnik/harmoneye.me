@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595px" height="595px" viewBox="0 0 595 595" enable-background="new 0 0 595 595" xml:space="preserve">
+<rect y="510.327" fill="#EAE2DF" width="595" height="85"/>
+<rect y="425.327" fill="#EDDBD6" width="595" height="85"/>
+<rect y="340.327" fill="#EDC9BE" width="595" height="85"/>
+<rect y="255.327" fill="#EDB7A6" width="595" height="85"/>
+<rect y="170.327" fill="#EDA58E" width="595" height="85"/>
+<rect y="85.327" fill="#ED9377" width="595" height="85"/>
+<rect y="0.327" fill="#ED5C2F" width="595" height="85"/>
+<text transform="matrix(1 0 0 1 56.3434 55.7577)" fill="#EDE5E2" font-family="'PTSans-Bold'" font-size="40">Layers of music abstractions</text>
+<text transform="matrix(1 0 0 1 256.4749 131.1299)" fill="#190803" font-family="'PTSans-Regular'" font-size="30">genre</text>
+<text transform="matrix(1 0 0 1 204.3616 484.0415)" fill="#190803" font-family="'PTSans-Regular'" font-size="30">sound, silence</text>
+<g>
+	<text transform="matrix(1 0 0 1 78.1966 307.5855)" fill="#190803" font-family="'PTSans-Regular'" font-size="30">rhythm</text>
+	<text transform="matrix(1 0 0 1 247.2869 307.5854)" fill="#190803" font-family="'PTSans-Regular'" font-size="30">melody</text>
+	<text transform="matrix(1 0 0 1 405.3001 307.5854)" fill="#190803" font-family="'PTSans-Regular'" font-size="30">harmony</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 167.2569 219.3578)" fill="#190803" font-family="'PTSans-Regular'" font-size="30">meter</text>
+	<text transform="matrix(1 0 0 1 359.4926 219.3577)" fill="#190803" font-family="'PTSans-Regular'" font-size="30">key</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 143.9012 395.8139)" fill="#190803" font-family="'PTSans-Regular'" font-size="30">duration</text>
+	<text transform="matrix(1 0 0 1 307.2796 395.814)"><tspan x="0" y="0" fill="#190803" font-family="'PTSans-Regular'" font-size="30">pitc</tspan><tspan x="47.969" y="0" fill="#190803" font-family="'PTSans-Regular'" font-size="30">h</tspan><tspan x="63.778" y="0" fill="#190803" font-family="'PTSans-Regular'" font-size="30">, timbre</tspan></text>
+</g>
+<g>
+	<g>
+		<path fill="#63544F" d="M551.853,164.925h11.859c0,0-18.383-8.303-18.975-29.649c-0.592,21.346-18.977,29.649-18.977,29.649
+			h11.861v276.223h-11.861c0,0,18.385,8.302,18.977,29.648c0.592-21.346,18.975-29.648,18.975-29.648h-11.859V164.925z"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 501.3281 116.5852)" fill="#190803" font-family="'PTSans-Regular'" font-size="20">high-level</text>
+<text transform="matrix(1 0 0 1 504.6882 498.5852)" fill="#190803" font-family="'PTSans-Regular'" font-size="20">low-level</text>
+<g>
+	<g>
+		<path fill="#63544F" d="M159.389,554.827v-11.859c0,0-8.303,18.383-29.649,18.975c21.346,0.592,29.649,18.977,29.649,18.977
+			v-11.861h276.223v11.861c0,0,8.302-18.385,29.648-18.977c-21.346-0.592-29.648-18.975-29.648-18.975v11.859H159.389z"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 46.9213 568.1288)" fill="#190803" font-family="'PTSans-Regular'" font-size="20">time</text>
+<text transform="matrix(1 0 0 1 486.6599 568.1287)" fill="#190803" font-family="'PTSans-Regular'" font-size="20">frequency</text>
+</svg>
