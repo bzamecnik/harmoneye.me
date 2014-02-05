@@ -1,12 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://harmoneye.me/blog/archives/</loc>
+        <loc>
+            http://harmoneye.me/blog/2011/harmonic-minor-scale-in-action-cancion-del-mariachi/
+        </loc>
         <lastmod>2014-01-05T20:45:12+01:00</lastmod>
     </url>
     <url>
-        <loc>http://harmoneye.me/</loc>
+        <loc>http://harmoneye.me/blog/2012/generating-chords-the-math-behind/</loc>
         <lastmod>2014-01-05T20:45:12+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/blog/2012/pentatonics-and-major-scale/</loc>
+        <lastmod>2014-01-05T20:45:12+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/blog/2013/scale-based-pitch-class-circle/</loc>
+        <lastmod>2014-02-05T18:00:14+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/about/</loc>
+        <lastmod>2014-02-05T16:41:30+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/blog/archives/</loc>
+        <lastmod>2014-02-05T18:00:14+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/blog/</loc>
+        <lastmod>2014-02-05T18:00:14+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/contact/</loc>
+        <lastmod>2014-02-05T10:44:12+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/</loc>
+        <lastmod>2014-02-05T18:00:14+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/</loc>
+        <lastmod>2014-02-05T18:12:56+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/what-is-music.html</loc>
+        <lastmod>2014-02-05T13:20:13+01:00</lastmod>
     </url>
     <url>
         <loc>http://harmoneye.me/robots.txt</loc>
