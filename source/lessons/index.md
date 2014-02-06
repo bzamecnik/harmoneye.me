@@ -26,7 +26,6 @@ Do you have any question? Feel free to [write me](/contact/). Want to be notifie
 
 - physical principles
 	- [sound and silence](physical-principles/sound-and-silence.html)
-		- waves of sound pressure
 	- time, frequency, intensity
 	- percussive sounds vs. harmonic tones - concentration of energy in time/frequency
 		- percussive sounds - peaks in time, spread in frequency

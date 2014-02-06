@@ -34,11 +34,13 @@ These particles usually make some tiny random motions but if we let some air clo
 
 ### Click
 
-Now what happens if something disturbs the quiet air? Let's say Bob claps his hands. Or similarly we can have a box with one side movable (imagine a loudspeaker with a membrane) and we move the membrane very quickly outside. The particles of air are pushed away and their local density increases. Each particle affects its neighbors with some force and they want to eventually achieve stability again. So the this change in density moves away and also fades away. What you could hear is a click or clap. Some energy were transported via the medium.
+Now what happens if something disturbs the quiet air? Let's say Bob claps his hands. Or similarly we can have a box with one side movable (imagine a loudspeaker with a membrane) and we move the membrane very quickly outside. The particles of air are pushed away and their local density increases. Each particle affects its neighbors with some force and they want to eventually achieve stability again. It is similar to a spring. So the this change in density moves away and also fades away. What you could hear is a click or clap. Some energy were transported via the medium.
+
+{% youtube aguCWnbRETU %}
 
 ### Sound wave
 
-Then what happens if this movable side of the box (the membrane) is moving periodically back and forth in *time*? Then the density would fluctuate between high and low and these sound waves would travel away from the source.
+Then what happens if this movable side of the box (the membrane) is moving periodically back and forth in *time*? Then the particle would also move back and forth, and thus the density of the air would fluctuate between high and low. These *sound waves* would travel away from the source. The back and forth movements of particles are called *vibration*.
 
 <p>
 <figure class="center">
@@ -50,14 +52,23 @@ Then what happens if this movable side of the box (the membrane) is moving perio
 </figure>
 </p>
 
-Let's take one point through which the sound wave is propagating. The density varies there up and down in a similar way as the membrane is moving back and forth.
-
 ### Frequency and amplitude
+
+Let's take one point through which the sound wave is propagating. The density varies there up and down in a similar way as the membrane is moving back and forth.
 
 The number of times there's a maximum of this simple wave in this point per second is called the *frequency*. If the membrane is moving slow the frequency is low, if its moving faster the frequency is higher. It is measured in Hertz (Hz). It is connected with how low or high we perceive a tone.
 
 Also we might be interested how loud the wave is. The amount of how the membrane gets displaced is affecting the amount of displacement of the air particles. This is called *amplitude* of the wave.
 
+<p>
+<figure class="center">
+	<img src="//upload.wikimedia.org/wikipedia/commons/6/6d/Sine_waves_different_frequencies.svg">
+	<figcaption>
+		Simple waves of various frequencies.
+		Credit: <a href="http://en.wikipedia.org/wiki/File:Sine_waves_different_frequencies.svg">LucasVB - Wikipedia</a> (Public domain).
+	</figcaption>
+</figure>
+</p>
 
 ### Attenuation with distance
 
@@ -73,22 +84,39 @@ Since the energy in the waves propagate in all directions it gets spread into th
 </figure>
 </p>
 
-### Complex sound
+### Complex sounds
 
-In practice the typical sounds are not just clicks or waves of a single frequency. Rather many simple sound waves are mixed together.
+In practice the typical sounds are not just clicks or waves of a single frequency. Rather many simple sound waves are mixed together. Many waves with various frequency, amplitude changing in time.
 
-TODO
+Practically any music uses some kind of complex sounds. And the content of our lessons will be to analyze and understand these complex sounds in music.
 
-- further reading:
-	- http://en.wikipedia.org/wiki/Sound
+### Various media
 
-- [iphone 4 inside a guitar oscillation](http://www.youtube.com/watch?v=ttgLyWFINJI)
-- [visualizing vibrations on singing strings](http://www.youtube.com/watch?v=INqfM1kdfUc)
-- [Bowed violin string in slow motion](http://www.youtube.com/watch?v=6JeyiM0YNo4)
+We have talked about air as of the media in which sound waves can propagate. However, it is not the only one. Roughly speaking sound can exist in just any matter other than vacuum (which is almost absent of matter), ie. gas (eg. air), fluid (eg. water), solid (eg. a steel rail), even plasma (eg. the Sun). It is sufficient that the medium has some movable particles that interact together the usual way. This is in contrast to electromagnetic radiation (eg. light or WiFi signal) which doesn't require any matter to propagate in.
+
+The various media differs in one important thing - how densely the particles are spaced. In air and other gases they're very sparse, in fluids their much more together and in solid they're very closely spaced.
+
+This affects the [speed the sound waves](http://en.wikipedia.org/wiki/Speed_of_sound) travel in the medium. Since the particles in steel are much closer the sound is faster there than in the air. This is the reason why you can hear a train approaching the station first from the rails then via the air.
+
+## Conclusion
+
+We have outlined the basic principle of sound - the vibration of particles in a medium creates waves that propagate through the medium. The vibrations are typically introduced by movements of some object in the medium and they carry some energy. They might be periodic which result in tones and we can measure the frequency of such waves. Or they might be non-periodic, eg. one-time pulses such as clicks or claps. The amount of energy the sound waves carry corresponds to the amplitude of the sound waves. In case no vibrations propagate through the medium there is no sound, ie. there is silence.
+
+Still we are going to explore how the sounds are created in practice and how they are perceived. And also we will delve more deeper in exploring sound from simple ones to much more complex ones.
+
+## Futher references
+
+You can read an in depth treatment of [Sound](http://en.wikipedia.org/wiki/Sound) at Wikipedia.
+
+A very nice and illustrative video lesson about [transmisson of sound](http://www.youtube.com/watch?v=GkNJvZINSEY) via sound waves in various media.
+
+Real-world amazing examples of sound sources - strings of guitar/bass/violin vibrate and transfer the vibrations into the air which results in sound waves. The strings actually vibrate much more quicker than in the video. The reason why the motion looks to slow is that the shutter speed of the camera is very short and captures the strings in different phases. This effect is called [aliasing](http://en.wikipedia.org/wiki/Aliasing).
+
+{% youtube ttgLyWFINJI %}
+{% youtube INqfM1kdfUc %}
+
+This violin video is captured on a real high-speed camera so the slow motion is not a result of aliasing.
+
+{% youtube 6JeyiM0YNo4 %}
+
 - [stunning bass-string shot](https://vimeo.com/4041788)
-
-
-- http://staff.science.uva.nl/~rein/MM/Topics/soundProcessing.html
-- http://en.wikibooks.org/wiki/A-level_Computing/AQA/Problem_Solving,_Programming,_Data_Representation_and_Practical_Exercise/Fundamentals_of_Data_Representation/Sounds
-
-- [transmisson of sound](http://www.youtube.com/watch?v=GkNJvZINSEY)
