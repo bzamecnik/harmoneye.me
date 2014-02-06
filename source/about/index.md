@@ -14,7 +14,7 @@ Basically a collection of [music theory lessons](../lessons/) and a [blog](../bl
 
 Hi! My name is [Bohumír Zámečník](http://zamecnik.me) and I love music. Since being a child music have always filled me with amazement and couriosity. Why this sounds so strangly beautiful?
 
-Although I attended a music school very shortly, after years I came back to learning music myself. Since high school I enjoy singing with the [Corale](http://corale.cz) chord (10+ years), ocassionally play guitar or other intruments with friends or at home. During 2013 I decided to take singing lessons - and I was amazed.
+Although I attended a music school very shortly, after years I came back to learning music myself. Since high school I enjoy singing with the [Corale](http://corale.cz) chord (10+ years), ocassionally play guitar or other intruments with friends or at home. During 2013 I decided to take singing lessons - and I was amazed. Also I took two very eye-opening courses at Coursera: [Jazz Improvization](https://www.coursera.org/course/improvisation) by Gary Burton and [Songwriting](https://www.coursera.org/course/songwriting‎) by Pat Pattison.
 
 Nevertheless, I am extremely curious about music theory. How does it work? Why it is able to express the emotions so well. Being a Computer Science graduate I love to express the various tools present in music using in terms of mathematics. Well, simply said, there's certain amazing structure present in music which allows it to be so beautiful. And it would exist in mathematics even if there was no music at all. And it's interesting to discover it.
 
