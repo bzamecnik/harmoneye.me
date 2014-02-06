@@ -12,6 +12,8 @@ The lessons are going to be written continuously. Imagene a living lean publishe
 
 Also I've imported some older blog posts - they contain some very interesting stuff but need to be rewritten for better clarity and incorporated into the lessons.
 
+The lessons will be organized so that you can read them from beginning to end. However you can skip some more advanced parts and return to them later or use whatever order you want.
+
 Do you have any question? Feel free to [write me](/contact/). Want to be notified when there will be new lessons? You can subscribe to the newsletter.
 
 ### [Introduction](introduction.html)
@@ -23,7 +25,7 @@ Do you have any question? Feel free to [write me](/contact/). Want to be notifie
 - These lessons
 
 - physical principles
-	- sound and silence
+	- [sound and silence](physical-principles/sound-and-silence.html)
 		- waves of sound pressure
 	- time, frequency, intensity
 	- percussive sounds vs. harmonic tones - concentration of energy in time/frequency

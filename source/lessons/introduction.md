@@ -52,4 +52,6 @@ While you can perform music without explicitly knowing how it works - if you are
 
 It these lessons we will focus right on music theory, ie. the principles behind music, not on the actual making of music or putting emotions and stories into this medium.
 
-Also for now the lessons will be mostly focused on harmony and tuning rather than the other aspects.
+Probably a majority of music theory textbooks start with notation. On the other hand we will start with the low-level physical principles as they can later grealy help us better understand what is really going on in music on higher levels.
+
+The lessons will be mostly focused on harmony and tuning rather than the other aspects. You will learn also something about the traditional notation and how to translate the concepts. Care will be taken to keep the terminology consistent with the rest of the world.
