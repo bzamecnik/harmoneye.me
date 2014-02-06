@@ -8,7 +8,7 @@ footer: true
 
 ## Contents
 
-The lessons are going to be written continuously. Imagene a living lean published book. The following is the expected outline of the topics.
+The lessons are going to be written continuously. Imagine a living lean published book. The following is the expected outline of the topics.
 
 Also I've imported some older blog posts - they contain some very interesting stuff but need to be rewritten for better clarity and incorporated into the lessons.
 
