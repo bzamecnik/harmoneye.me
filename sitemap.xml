@@ -4,7 +4,7 @@
         <loc>
             http://harmoneye.me/blog/2011/harmonic-minor-scale-in-action-cancion-del-mariachi/
         </loc>
-        <lastmod>2014-01-05T20:45:12+01:00</lastmod>
+        <lastmod>2014-02-07T11:48:53+01:00</lastmod>
     </url>
     <url>
         <loc>http://harmoneye.me/blog/2012/generating-chords-the-math-behind/</loc>
@@ -24,11 +24,11 @@
     </url>
     <url>
         <loc>http://harmoneye.me/blog/archives/</loc>
-        <lastmod>2014-02-05T18:00:14+01:00</lastmod>
+        <lastmod>2014-02-07T11:48:53+01:00</lastmod>
     </url>
     <url>
         <loc>http://harmoneye.me/blog/</loc>
-        <lastmod>2014-02-05T18:00:14+01:00</lastmod>
+        <lastmod>2014-02-07T11:48:53+01:00</lastmod>
     </url>
     <url>
         <loc>http://harmoneye.me/contact/</loc>
@@ -36,19 +36,103 @@
     </url>
     <url>
         <loc>http://harmoneye.me/</loc>
-        <lastmod>2014-02-05T18:00:14+01:00</lastmod>
+        <lastmod>2014-02-07T11:48:53+01:00</lastmod>
     </url>
     <url>
         <loc>http://harmoneye.me/lessons/</loc>
-        <lastmod>2014-02-06T15:54:04+01:00</lastmod>
+        <lastmod>2014-02-07T17:04:05+01:00</lastmod>
     </url>
     <url>
         <loc>http://harmoneye.me/lessons/introduction.html</loc>
-        <lastmod>2014-02-06T10:23:00+01:00</lastmod>
+        <lastmod>2014-02-07T11:46:46+01:00</lastmod>
     </url>
     <url>
-        <loc>http://harmoneye.me/lessons/physical-principles/sound-and-silence.html</loc>
-        <lastmod>2014-02-06T16:42:33+01:00</lastmod>
+        <loc>http://harmoneye.me/lessons/music/chords/</loc>
+        <lastmod>2014-02-07T16:06:30+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/music/chords/progressions/</loc>
+        <lastmod>2014-02-07T16:20:06+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/music/genres/blues/</loc>
+        <lastmod>2014-02-06T18:56:15+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/music/intervals/</loc>
+        <lastmod>2014-02-06T19:08:12+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/music/keys/</loc>
+        <lastmod>2014-02-07T16:07:49+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/music/keys/modulation/</loc>
+        <lastmod>2014-02-07T16:09:38+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/music/melody-and-harmony.html</loc>
+        <lastmod>2014-02-07T16:03:01+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/music/scales/12-tone/</loc>
+        <lastmod>2014-02-07T16:05:17+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/music/scales/beyond-diatonic.html</loc>
+        <lastmod>2014-02-07T16:09:10+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/music/scales/diatonic/</loc>
+        <lastmod>2014-02-07T16:06:36+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/music/scales/diatonic/structure.html</loc>
+        <lastmod>2014-02-07T16:07:28+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/music/scales/</loc>
+        <lastmod>2014-02-07T16:04:36+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/music/scales/pentatonic/</loc>
+        <lastmod>2014-02-07T16:18:29+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/music/tones/</loc>
+        <lastmod>2014-02-07T16:02:13+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/physics/interaction-of-sounds.html</loc>
+        <lastmod>2014-02-06T18:50:40+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/physics/overtones.html</loc>
+        <lastmod>2014-02-06T18:41:28+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/physics/perceiving-sound.html</loc>
+        <lastmod>2014-02-06T18:34:58+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/physics/percussive-and-harmonic-sounds.html</loc>
+        <lastmod>2014-02-06T18:26:26+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/physics/producing-sound.html</loc>
+        <lastmod>2014-02-06T18:33:41+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/physics/sound-and-silence.html</loc>
+        <lastmod>2014-02-07T11:43:04+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/physics/time-frequency-intensity.html</loc>
+        <lastmod>2014-02-06T18:28:26+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://harmoneye.me/lessons/physics/tuning/</loc>
+        <lastmod>2014-02-07T16:16:32+01:00</lastmod>
     </url>
     <url>
         <loc>http://harmoneye.me/robots.txt</loc>
