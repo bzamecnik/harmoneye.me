@@ -34,7 +34,9 @@ They are grouped in several layers from low level aspects up to the high level o
 
 Alse they are grouped according to how they are related to time (where something occurs in the song) or frequency (does it sound high or low).
 
-<p align="center"><img src="/assets/lessons/layers-of-music-abstractions.svg" width="80%"></p>
+<p align="center">
+	<img src="{% asset_path layers-of-music-abstractions.svg %}" alt="Layers of music abstractions" width="80%">
+</p>
 
 ## How learn music?
 
@@ -48,7 +50,7 @@ This is the general learning process.
 
 While you can perform music without explicitly knowing how it works - if you are talented you can get much further if you know your tools and are able to use them properly. Since ages many smart people were trying to find out what are the tools and how to use them. And this knowledge resulting from analyzing the music is called *music theory*. Generally it is useful to learn from our predecessors and stand on the shoulders of giants. Instead of always reinventing wheel we can save some time for actually creating something new.
 
-## These lessons
+## Structure of these lessons
 
 It these lessons we will focus right on music theory, ie. the principles behind music, not on the actual making of music or putting emotions and stories into this medium.
 

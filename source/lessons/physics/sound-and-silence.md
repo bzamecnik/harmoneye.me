@@ -12,7 +12,7 @@ Before we start playing with music we dig a bit deeper into the lower-level of m
 
 Imagine this situation: *Alice sings a tone. Bob listens to this sound. After a breif moment of silence he claps his hands in an applause.*
 
-<img src="{% asset_path tone-and-clap.jpg %}">
+![]({% asset_path tone-and-clap.jpg %})
 
 Very simple, huh? However, we might ask several questions:
 
@@ -20,7 +20,7 @@ Very simple, huh? However, we might ask several questions:
 - what is silence?
 - what is a tone?
 - what is a handclap? how it differs from a tone?
-- how Alice created tone the tone?
+- how Alice created the tone?
 - how it gets into Bob's ears?
 - how Bob hears the music via his ears?
 

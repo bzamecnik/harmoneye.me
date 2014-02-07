@@ -2,7 +2,7 @@
 title: Visual Music Theory Lessons
 layout: page
 comments: true
-sharing: false
+sharing: true
 footer: true
 ---
 
@@ -22,150 +22,34 @@ Do you have any question? Feel free to [write me](/contact/). Want to be notifie
 	- components of music
 - How to learn music?
 - Music theory? Why care about it?
-- These lessons
+- Structure of these lessons
 
-- physical principles
-	- [sound and silence](physical-principles/sound-and-silence.html)
-	- time, frequency, intensity
-	- percussive sounds vs. harmonic tones - concentration of energy in time/frequency
-		- percussive sounds - peaks in time, spread in frequency
-		- harmonic sounds - peaks in frequency, spread in time
-	- overtones
-		- timbre
-	- interaction of multiple tones
-		- consonance vs. dissonance
-	- producing sound - instruments
-	- perceiving sound - ears
-		- log-frequency, log-intensity perception
-	- pitch
-	- tuning
-		- which tones to use together?
-		- just intonation
-			- based on the physics - derived from overtones
-			- suitable for instruments with continuous pitch - like voice
-		- 12-tone equal temperament
-			- compromise tuning for intruments with fixed pitches
-			- allows changing keys easily
-			- good mathematical properties - matches the Z12 group
-			- suitable for instruments with fixed pitch
-		- comparison of JI and 12TET
-		- other tuning systems
-		- problems with tuning
-			- inharmonicity
-				- overtones not ideal or moving in time
-- tones
-	- frequency, tone, pitch
-	- octave equivalence
-		- based on matching overtones
-	- pitch class
-	- melody
-	- rhythm
-	- transposition
-	- piano keyboard diagram
-	- traditional notation - note staff
-- intervals - dyads
-	- difference between two pitches
-	- octave inversion, eg. 5 ~ 7 = 12 - 5
-	- octave equivalence (eg. modulo 12)
-	- stability vs. instability
-- scales, pitch class sets
-	- collections of tones
-	- plain sets
-	- sets with natural ordering
-		- no root - circular
-		- root - linear
-- chromatic scale
-	- based on the 12TET
-	- 12 pitch class sets
-	- can be modelled via the Z12 group
-	- traditional notation
-	- pitch class circle diagram
-		- coloring
-- diatonic scale
-	- [pentatonic scale](/blog/2012/pentatonics-and-major-scale/)
-		- complement and also subset
-	- notation via the scale degrees
-	- tranditional notation - accidentals
-		- stateful nature of the notation
-		- sharps, flats
-		- enharmonic equivalence - given 12TET
-		- double accidentals - total hell
-	- properties
-	- relation to just intonation derived from overtones
-	- its unique position among other scales
-	- transposiion - 12 diatonic scales
-	- another derivation: circle of fifths
-	- structure of the chromatic scale
-		- two complementar pentatonics
-		- intersection at two tones
-		- two mirror diatonic scales
-		- diatonic scale + complementar pentatonic scale
-	- [scale circle diagram](/blog/2013/scale-based-pitch-class-circle/)
-- chords
-	- beyond two tones at once
-	- chords derived from the diatonic scale
-	- triads, tetrachords, ...
-	- traditional notation
-		- roman numeral - root as the scale degree
-		- type of the chord
-	- chord structure
-		- 1 3 5 7 2 4 6, ...
-	- stability vs. instability
-		- generally used chords
-		- rarely used chords
-		- how the number of pitch classes in the chord affect the stability
-			- why the number of pitch classes in a chord is rather low
-	- chord as:
-		- ordered set of pitch classes
-		- an collection of actual pitches
-			- voicings, inversions
-	- identities between chords
-		- multiple names depending on what's the root
-- key
-	- a mid-local property of a song
-	- a point of stability - typically a diatonic scale
-	- named by the diatonic scale root
-	- traditional theory distinguish between major and minor keys
-		- since the natural minor scale is just a mode of diatonic scale we'll not distinguish them
-	- sometimes there's no definite key
-		- instability
-		- ambiguity between several keys
-		- or the key is totally undefined
-- structure of the diatonic scale
-	- three major triads, three minor ones, one diminied triad
-	- cadence - pendulum harmony
-		- relation between triads of the same type
-			- tonic, subdominant, dominant
-		- relation between triads across the type (parallel major-minor)
-	- relation to traditional major minor keys
-- harmony - using chords
-	- chord progressions
-- modes - changing the root of an ordered scale
-- other scales
-	- harmonic minor
-		- derivation
-	- melodic minor
-	- symmetric scales
-- [general way of generating chords from any scale](/blog/2012/generating-chords-the-math-behind/)
-- relations among keys
-	- mirror-conjugated diatonic scales
-		- tritone substitution
-		- altered dominant
-		- neapolitan chords
-		- tristan chord
-- modulation between keys
-	- various methods
-	- relative major-minor
-	- using diminished chords
-		- what's similar between latin bossa and J.S.Bach?
-	- augmented chords
-- blues
-	- blues intonation
-		- based on just intonation rather than equal temperament
-		- b3, b5, b7 - overtones of the root tone
-	- modulation among three "keys" (not based on the diatonic scale)
-		- similar concept to the cadence
-	- blues chords
-		- dominant - why?
-	- ambivalence between major and minor sound
-	- traditional blues form - 12-bar blues
+### Physical principles
+- [Sound and silence](physics/sound-and-silence.html) - WTF is sound?
+- [Time, frequency, intensity](physics/time-frequency-intensity.html) - dimensions of sound
+- [Percussive and harmonic sounds](physics/percussive-and-harmonic-sounds.html) - clap vs. tone
+- [Overtones](physics/overtones.html) - color inside a tone
+- [Interaction of sounds](physics/interaction-of-sounds.html) - tones on a rendez-vous
+- [Producing sound](physics/producing-sound.html) - loughing out loud
+- [Perceiving sound](physics/perceiving-sound.html) - 
+- [Tuning](physics/tuning/) - bring more tuna
+
+### Melody, harmony and beyond
+
+- [Melody and harmony](music/melody-and-harmony.html) - the dance of tones
+- [Tones](music/tones/) - one tone
+- [Intervals](music/intervals/) - two tones
+- [Scales](music/scales/) - multiple tones
+	- [12-tone scale](music/scales/12-tone/) - the musical canvas
+	- [Pentatonic scale](music/scales/pentatonic/) - be a star
+	- [Diatonic scale](music/scales/diatonic/) - the holy grail of music
+- [Chords](music/chords/) - just enough tones for a moment
+- [Structure of the diatonic scale](music/scales/diatonic/structure.html) - the scale anatomy
+- [Keys](music/keys/) - higher-level points of stability
+- [Chord progressions](music/chords/progressions/) - movement among chords
+- [Other scales](music/scales/beyond-diatonic.html) - passion beyond diatonic scale
+- [Modulation](music/keys/modulation/) - movement among keys
+
+### Genres
+
+- [Blues](genres/blues/) - the sad-happy schizophrenia
