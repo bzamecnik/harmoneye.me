@@ -87,3 +87,20 @@ body > header {
 	text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
 	position: relative;
 }
+
+a {
+	color: #ef5016;
+}
+
+article a {
+	text-decoration: none;
+}
+
+a:visited {
+	color: #7f3b26;
+}
+
+a:hover {
+	color: #ef5016;
+	text-decoration: underline;
+}
