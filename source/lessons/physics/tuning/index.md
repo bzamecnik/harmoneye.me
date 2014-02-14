@@ -18,6 +18,11 @@ footer: true
 	- blessing and curse of Western music
 - comparison of JI and 12TET
 - other tuning systems
+	- other tuning systems based on harmonic tones
+	- tuning systems not based on harmonic tones
+		- Gamelan
+	- tuning systems not based on octaves
+		- Bohlen–Pierce
 - problems with tuning
 	- inharmonicity
 		- overtones not ideal or moving in time

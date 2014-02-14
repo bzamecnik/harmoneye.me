@@ -78,7 +78,7 @@ The various media differs in one important thing - how densely the particles are
 
 This affects the [speed the sound waves](http://en.wikipedia.org/wiki/Speed_of_sound) travel in the medium. Since the particles in steel are much closer the sound is faster there than in the air. This is the reason why you can hear a train approaching the station first from the rails then via the air.
 
-## Conclusion
+## Summary
 
 We have outlined the basic principle of sound - the vibration of particles in a medium creates waves that propagate through the medium. The vibrations are typically introduced by movements of some object in the medium and they carry some energy. They might be periodic which result in tones and we can measure the frequency of such waves. Or they might be non-periodic, eg. one-time pulses such as clicks or claps. The amount of energy the sound waves carry corresponds to the amplitude of the sound waves. In case no vibrations propagate through the medium there is no sound, ie. there is silence.
 

@@ -7,6 +7,7 @@ footer: true
 ---
 
 - fundamental frequency
+- harmonic series
 - integer multiples
 - timbre
 - effects on interaction of multiple sounds

@@ -12,3 +12,4 @@ footer: true
 - sets with natural ordering
 	- no root - circular
 	- root - linear
+- modes - changing the root of an ordered scale
