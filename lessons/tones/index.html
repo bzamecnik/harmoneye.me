@@ -1,0 +1,402 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Tones - HarmonEye Music Education</title>
+  <meta name="author" content="Bohumír Zámečník">
+
+  
+  <meta name="description" content="Tones Since tones are the basis of melody and harmony we will start by studying simple tones. Afterwards we will move on to relations of two or more &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://harmoneye.me/lessons/tones">
+  <link href="/favicon.ico" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="HarmonEye Music Education" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-40015611-5']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1>
+	  <a href="/">HarmonEye Music Education</a>
+	  <span class="title-state-label">ALPHA</a>
+  </h1>
+  
+    <h2>Visual Music Theory Lessons</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:harmoneye.me" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Start here</a></li>
+  <li><a href="/lessons/">Lessons</a></li>
+  <li><a href="/blog/">Blog</a></li>
+  <li><a href="/blog/archives/">Archives</a></li>
+  
+  <li><a href="/about/">About</a></li>
+  <li><a href="/contact/">Contact</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article role="article">
+  
+  <header>
+    <h1 class="entry-title">Tones</h1>
+    
+  </header>
+  
+  <p>Since tones are the basis of melody and harmony we will start by studying simple tones. Afterwards we will move on to relations of two or more tones.</p>
+
+<p>I hope you have already heard many tones in your life (otherwise how poor a life would be without music). Nevertheless, we can listen to some examples first.</p>
+
+<pre><code>TODO: a sound example of several tones
+    - tones with various pitch, duration, intensity, timbre, etc.
+    - a spectrogram (more concrete visualization)
+    - a piano roll (more abstract one)
+</code></pre>
+
+<h2>Summary of the physical fundamentals</h2>
+
+<h3>Harmonic sounds</h3>
+
+<p>We have already learnt in the physics chapter about <em>harmonic sounds</em>. They can be thought of as sinusoid waves with basic properties: <em>frequency</em>, <em>amplitude</em> and <em>phase</em>. The frequency is the number of cycles per second, the amplitude is the &ldquo;size&rdquo; of the wave from zero to a peak and the phase is how the wave is shifted in time relative to some reference time.</p>
+
+<figure class="center">
+    <img src="/assets/lessons/tones/sine-frequencies.png">
+    <figcaption>Sine waves of various frequencies</figcaption>
+    <img src="/assets/lessons/tones/sine-amplitudes.png">
+    <figcaption>Sine waves of various amplitudes</figcaption>
+    <img src="/assets/lessons/tones/sine-phases.png">
+    <figcaption>Sine waves of various phases</figcaption>
+</figure>
+
+
+<p>In practice tones are typically composed of a sum one or more such simple harmonically related sinusoid waves (<em>harmonics</em>) &ndash; the <em>fundamental</em> one (1st harmonic) and the <em>overtones</em> (2nd, 3rd, etc. harmonic). The frequencies of the overtones are multiples of the fundamental frequency by small natural numbers. We can visualize which frequencies a harmonic sound contains via its <em>spectrum</em>.</p>
+
+<pre><code>TODO: a spectrum of some harmonic sound
+</code></pre>
+
+<p>Each overtone can be of different amplitude which can also vary in time and the particular combination of overtones makes up the timbre &ndash; the particular &ldquo;color&rdquo; of the tone.</p>
+
+<pre><code>TODO: spectra of two sounds of different timbre
+</code></pre>
+
+<h3>Human perception</h3>
+
+<p>We have also learnt something about how humans perceive such sounds. For many harmonic sounds people are able to interpret multiple harmonically related sounds as a single tone instead of separate sounds and also to distinguish between multiple tones. The relative &ldquo;height&rdquo; of such perceived sound is called <em>pitch</em> and it is based on the frequency of the fundamental harmonic of the tone.</p>
+
+<p>Some instruments (like violin) are capable of producing tones with pitch changing continuously, while other instruments (like piano) can only make tones of some selected pitches.</p>
+
+<p>If we take two arbitrary couples of pitches such that humans perceive as they have equal distance the difference of their frequencies would be different. Similarly to the perception of pitch also the perception of intensity is not linear but rather logarithmic. Both allows to percieve small differences over a broad range of frequencies or intensities respectively by mapping them onto a smaller range.</p>
+
+<pre><code>TODO: linear frequency domain vs. log-frequency domain (of pitch)
+</code></pre>
+
+<p>The operation of moving a pitch up or down by some distance is called <em>transposition</em>. In the frequency domain transposition is represented by multiplication (scaling) while in the pitch domain it is just addition (shifting).</p>
+
+<pre><code>TODO: transposition of a harmonic tone in both domains
+</code></pre>
+
+<p>In the linear frequency domain the harmonics are equally spaced, on the other hand in the log-frequency (pitch) domain the octaves are equally spaced.</p>
+
+<pre><code>TODO: illustration
+</code></pre>
+
+<p>As for the intensity the perception is not purely logarithmic. The perceived <em>loudness</em> depends also on the combination of pitch and intensity. This non-linearity can be measured and is called <a href="http://en.wikipedia.org/wiki/Equal-loudness_contour">equal-loudness countour</a>.</p>
+
+<h2>Pitch circularity &ndash; a spiral of pitches</h2>
+
+<p>There is a very important feature of our sound perception &ndash; <em>pitch circularity</em> or <em>octave equivalence</em>. Some tones sound very similar and when played at once it might be not be easy to distinguish them.</p>
+
+<p>Consider two tones composed of many harmonics, A and B. The fundamental frequency of the tone B is exactly twice as high as of tone A (this 2:1 ratio is generally called an <em>octave</em>). Now the each harmonic of the second tone is excatly aligned with every other harmonic of the first tone. It is illustrated here:</p>
+
+<pre><code>A: 1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16
+B: .   1   .   2   .   3   .   4   .   5   .   6   .   7   .   8
+
+TODO: sound example - two octave-related harmonic tones
+</code></pre>
+
+<p><a href="http://www.neuroscience-of-music.se/Octave-History.htm">It has been found</a> that our brain is structured in such way that tones related by one or more octaves &ndash; powers of two (2x, 4x, 8x, etc.) &ndash; are processed in similar places. In other words the perception of similarity of such tones is hard-wired into our brain.</p>
+
+<p>To better demonstrate this relationship we can visualize the space of pitches as a spiral rather than just a line.</p>
+
+<pre><code>TODO: illustration:
+- pitch space as a line
+- pitch space as a spiral
+</code></pre>
+
+<p>This phenomenon is heavily exploited both in musical practice and theory.</p>
+
+<h3>Pitch class (chroma) &ndash; from spiral to circle</h3>
+
+<p>Since humans perceive octave-related harmonic tones as of very similar or same quality we can make a further abstraction to pitch. We can group all pitches related by one or more octaves into a single group. If we picked some pitch on the spiral this would look like drawing a vertical line to join all the pitches above and below. Each such a group of pitches is then called a <em>pitch class</em> or <em>chroma</em>.</p>
+
+<pre><code>TODO: illustration - pitch spiral with vertical lines connecting pitch classes
+</code></pre>
+
+<p>By discarding the &ldquo;height&rdquo; on the spiral we obtain a diagram called <em>pitch class circle</em>. The pitch class in then represented only by the angle on the circle.</p>
+
+<pre><code>TODO: illustration - pitch class circle
+</code></pre>
+
+<p>Transposition on the pitch class circle is represented by rotation in one or the other direction.</p>
+
+<pre><code>TODO: illustration - transposition on a pitch class circle
+</code></pre>
+
+<h2>From continuous to discrete pitches</h2>
+
+<p>In practice often musicians use not all possible pitches but rather only some selected ones, a collection. There might be multiple reasons:</p>
+
+<ul>
+<li>some intruments are tuned such that they produce only fixed pitches (eg. piano)</li>
+<li>a collection of pitches is selected so that they work well together (eg. a scale based on some tuning)</li>
+<li>a small set of pitches is better tangible than an infitite space of continuous pitches</li>
+</ul>
+
+
+<p>Thus in practice we work often with a discrete collection of selected pitches. Still we can visualize them as points on the spiral or circle.</p>
+
+<p>An example of a discrete set of pitches (and thus pitch classes) could be the chromatic scale under equal temperament tuning with some fixed reference frequency (eg. 440 Hz).</p>
+
+<pre><code>TODO: illustration
+- spiral with selected pitches
+- circle with selected pitches
+</code></pre>
+
+<p>Since we can name the pitches in our discrete collection, we can make a nice abstraction and hide away the details of the reference frequency of the tuning, or the actual tuning system. This is for example the base of various music notations.</p>
+
+<p>The power of such an abstraction is that the musicians do not have to bear in mind all the details that are not necessary for their work. Eg. the pitch class names C is the same no matter if the reference frequency is slightly higher or lesser depending on the technical needs of the orchestra (and thus the actual frequency of that pitch changes).</p>
+
+<h2>Visualization</h2>
+
+<ul>
+<li>spectrogram &ndash; low-level time-frequency-intensity</li>
+<li>piano roll &ndash; higher-level time-pitch</li>
+<li>piano keyboard diagram &ndash; static moment</li>
+<li>traditional notation &ndash; note staff &ndash; abstract time-pitch and more</li>
+<li>tone clock &ndash; static moment &ndash; pitch class</li>
+</ul>
+
+
+<h2>The life of a tone &ndash; from the perspective of intensity</h2>
+
+<p>Although an ideal sinusoid wave is infinite in practice tones are of limited duration. At some time they are &ldquo;born&rdquo;, they &ldquo;live&rdquo; for some shorter or longer time and finally they &ldquo;die&rdquo;. They typically do not appear or vanish abruptly, but rather gradually.</p>
+
+<p>Although tones can be created by many instruments via various physical principles their common life cycle can be roughly described in four phases.</p>
+
+<pre><code>TODO: illustration
+- guitar tone, organ tone, percussive tone
+</code></pre>
+
+<ul>
+<li><em>attack</em> &ndash; The initial phase when the intensity is rising until it hits some maximum. A short attack is typical for instruments which produce sound via some percussion, such as plucking a string. In the attack phase the tone might contain much noise for some short time.</li>
+<li><em>decay</em> &ndash; The phase when the intensity of the attack decreases and changes to sustain. Also the noise is fading away and the harmonic parts become more noticable.</li>
+<li><em>sustain</em> &ndash; The phase when the intensity of the tone is held approximately constant for a longer time. Long constant sustain is typical for wind instruments when the tone is produced as long as there is a steady flow of air, or for violin with a continuous dragging of a bow.</li>
+<li><em>release</em> &ndash; The last phase when the intensity falls down to complete silence. Eg. for plucked string typically there&rsquo;s no sustain phase and the decay and release phases are fused. Also for percussive sounds there might be just the noise components and no harmonic components to that in fact there&rsquo;s no sustain or release phase.</li>
+</ul>
+
+
+<p>The characteristics of each phase depends not only on the instrument type but also on the specific way the tone is played.</p>
+
+<p>This <a href="http://en.wikipedia.org/wiki/ADSR_envelope#ADSR_envelope">ADSR envelope model</a> of tones is described in more detail on Wikipedia.</p>
+
+<p>More information about the musical usage of lower-level variations of intensity (articulation) and higher-level ones (dynamics) will be discussed in more detail in a separate section.</p>
+
+<h2>Summary</h2>
+
+<p>In this section we have learned about harmonic tones. We have summarized their basic physical properties, we have examined the basics of human perception of tones. The important is that human perception of pitch and loudness is not linear but rather logarithmic and that pitch perception has periodic attributes &ndash; octave-related pitches are perceived as very similar. This pitch circularity in addition to selecting only several discrete pitches to work with then can be exploited to reduce the number of pitch classes that we work with to just a few objects (out of the continuous space). Also we have explored the basics of the life cycle of a tone from the intensity point of view.</p>
+
+<p>Now we are ready to start playing with a combination of multiple tones, beginning with <a href="../intervals/">intervals</a>.</p>
+
+  
+    <footer>
+      
+      
+        <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://harmoneye.me/lessons/tones/index.html" data-via="bzamecnik" data-counturl="http://harmoneye.me/lessons/tones/index.html" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+      
+    </footer>
+  
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+	<h2>About harmoneye.me</h2>
+	<p><a href="/about/"><img src="https://s.gravatar.com/avatar/f90538dcd2df4a510c8f0b057154dea1?s=160" align="right" title="Written by Bohumír Zámečník" width="80" style="margin: 0 0 10px 10px"></a>
+	<p>
+		This website is dedicated to all people who would like to learn the music theory from principles to advanced concepts in an comprehensible way using visualization and without unnecessary complexity.
+	</p>
+	<p><a href="/about/">Find out more</a>.</p>
+</section>
+<section>	
+	<p>
+		<a href="https://twitter.com/bzamecnik" class="twitter-follow-button" data-show-count="false">Follow @bzamecnik</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+	</p>
+	<p>	
+		<div class="fb-like" data-href="http://harmoneye.me/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+	</p>
+</section>
+<section>
+	<h2>Newsletter</h2>
+	<p>Sign-up and be notified of new lessons or software updates. No spam.</p>
+	<div id="mc_embed_signup">
+		<form action="http://harmoneye.us4.list-manage.com/subscribe/post?u=1b9ee804eac8f2968181de654&amp;id=3a069a216d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+		<div class="mc-field-group">
+			<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address">
+		</div>
+			<div id="mce-responses" class="clear">
+				<div class="response" id="mce-error-response" style="display:none"></div>
+				<div class="response" id="mce-success-response" style="display:none"></div>
+			</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+		    <div style="position: absolute; left: -5000px;"><input type="text" name="b_1b9ee804eac8f2968181de654_3a069a216d" value=""></div>
+			<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+			</div>
+		</form>
+	</div>
+</section>
+<section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/scale-based-pitch-class-circle/">Scale-based Pitch Class Circle</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/pentatonics-and-major-scale/">Pentatonics and Major Scale</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/generating-chords-the-math-behind/">Generating Chords - the Math Behind</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/harmonic-minor-scale-in-action-cancion-del-mariachi/">Harmonic Minor Scale in Action - Cancion Del Mariachi</a>
+      </li>
+    
+  </ul>
+</section>
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - uncovered and written with love by <a href="/about/">Bohumír Zámečník</a> -
+  <span class="credit">steam-powered by <a href="http://octopress.org">Octopress</a> - hosted via <a href="https://github.com/bzamecnik/harmoneye.me">GitHub Pages</a></span>
+</p>
+
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
