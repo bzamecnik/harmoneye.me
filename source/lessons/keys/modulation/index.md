@@ -19,6 +19,7 @@ footer: true
 			- neapolitan chords
 			- tristan chord
 - various methods of modulation
+	- dominant
 	- relative major-minor
 	- using diminished chords
 		- what's similar between latin bossa and J.S.Bach?
